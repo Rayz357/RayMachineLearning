@@ -4,3 +4,6 @@
 1. How would you define Machine Learning?  
 2. Can you name four types of applications where it shines?  
 3. What is a labeled training set?  
+## Chapter 2 
+pipeline: 
+create a test set
